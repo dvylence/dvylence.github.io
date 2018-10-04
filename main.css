@@ -1,4 +1,18 @@
+table
+{
+border: 0px;
+}
+.shape4
+{
+  background-image: url(images/shape4.png);
+}
+.layer3
+{
+    background-image: url(images/Layer3.png);
+}
 body
 {
-  background-image: url(images/Layer0.png)
+  background-image: url(images/Layer0.png);
+  weight:1440;
+  height: 1440;
 }
