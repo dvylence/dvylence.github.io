@@ -1,0 +1,145 @@
+body
+{
+    background-color: black;
+    
+}
+
+.gorizont
+{
+    display:inline-block;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    
+}
+img.gorizont{
+    margin: 10px 2% 10px 2%;
+ }
+
+
+.center
+{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+#menu
+{
+    min-width: 120px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    
+    padding: 20px 2% 20px 2%;
+   
+    
+}
+
+
+#menu:hover
+{
+
+    outline: 2px solid white; 
+
+}
+
+
+#content
+{
+    justify-content: center;
+    text-align: left;
+    color: white;
+    padding-left:0px;
+    padding-right:0px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+a
+{   
+   color: white;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+  
+}
+a:hover{
+    color: gold;
+}
+
+
+
+
+.shapka
+{
+   display:inline-block;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    color: white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: center;
+}
+#shapka
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+
+
+p{
+    margin: 0px;
+ 
+}
+
+p1
+{
+    font-size: 30px;    
+}
+
+p2
+{
+    font-size:25px;
+}
+
+
+#1
+{
+    color: white;
+}
+
+table
+{
+    border-color: white;
+}
+#maincont {
+    color: white;
+    justify-content: space-between;
+}
+
+#plitkanad
+{
+      
+    
+}
+img{
+    transition: 1s;
+}
+img:hover{
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
+
