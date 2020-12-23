@@ -48,7 +48,7 @@ img.gorizont{
 #content
 {
     justify-content: center;
-    text-align: left;
+    
     color: white;
     padding-left:0px;
     padding-right:0px;
@@ -98,6 +98,8 @@ p{
 
 p1
 {
+    text-align:justify;
+    text-indent: 20px;
     font-size: 30px;    
 }
 
