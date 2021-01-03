@@ -9,6 +9,7 @@ body
     display:inline-block;
     flex-wrap: wrap;
     flex-direction: row;
+
     
     
 }
@@ -22,15 +23,17 @@ img.gorizont{
     display:flex;
     align-items:center;
     justify-content: center;
+        margin: 0px;
+    border: 0px;
 }
 
 #menu
 {
     min-width: 120px;
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
     margin-top: 10px;
-    
+    color: green;
     padding: 20px 2% 20px 2%;
    
     
@@ -59,7 +62,7 @@ img.gorizont{
 
 a
 {   
-   color: white;
+ color: yellowgreen;
     text-decoration: none;
     font-family: 'Roboto Condensed', sans-serif;
   
@@ -100,12 +103,16 @@ p1
 {
     text-align:justify;
     text-indent: 20px;
-    font-size: 30px;    
+    font-size: 28px;    
 }
 
 p2
 {
     font-size:25px;
+}
+p4
+{
+    font-size: 35px;
 }
 
 
@@ -136,7 +143,12 @@ img:hover{
 }
 
 
-
+#text_1
+{
+    font-size: 24px;
+    text-indent: 50px;
+    margin-bottom: 20px;
+}
 
 
 
