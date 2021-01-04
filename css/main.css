@@ -154,12 +154,13 @@ img:hover{
     text-indent: 50px;
     margin-bottom: 20px;
 }
-#vk
-{
-min-height: 200px;
-    min-width: 200px;
-}
 
+#mes 
+{
+    position: fixed;
+    top: 92%;
+    
+}
 
 
 
