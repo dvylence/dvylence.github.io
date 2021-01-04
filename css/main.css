@@ -130,18 +130,23 @@ table
     justify-content: space-between;
 }
 
-#plitkanad
-{
-      
-    
-}
 img{
     transition: 1s;
 }
 img:hover{
     transform: scale(1.2);
 }
-
+#main_img1
+{
+   
+    background: url(images/main/laser.png);
+    width: 480px;
+    height: 480px;
+}
+#main_hov:hover
+{
+    transform: scale(1);
+}
 
 #text_1
 {
@@ -149,8 +154,11 @@ img:hover{
     text-indent: 50px;
     margin-bottom: 20px;
 }
-
-
+#vk
+{
+min-height: 200px;
+    min-width: 200px;
+}
 
 
 
